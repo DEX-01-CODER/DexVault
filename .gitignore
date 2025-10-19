@@ -1,0 +1,9 @@
+# app data
+data/
+*.json
+
+# OS & Python
+.DS_Store
+__pycache__/
+*.pyc
+venv/
